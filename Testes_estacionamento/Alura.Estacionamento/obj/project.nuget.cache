@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UnKy5K5+F+eDFO0/vhA28HeOY43CXBeh8aXks9bRYoyygs5sO5/KraOk23WCyfzcnvFN8RbCn0Oxe5uFqJXAtQ==",
+  "dgSpecHash": "nxxB0TfvdF9gVTTZ75nSw7U2/RSAHQdedqMSVlseircgxm0WiZc2A7Tda1T0eMyMid1koSu/1TL0eeCOkKcnLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tiago\\Desktop\\Workspace\\alura\\formacoes\\Testes_Dotnet\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
+  "projectFilePath": "C:\\Users\\tiago\\Desktop\\Workspace\\alura\\formacoes\\Testes_Dotnet\\Testes_estacionamento\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
