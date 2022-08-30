@@ -47,5 +47,12 @@ namespace Alura.Estacionamento.Testes
             //Assert
             Assert.Equal(TipoVeiculo.Automovel, veiculo.Tipo);
         }
+
+        [Fact (Skip ="Teste ainda não implementado. Ignorar")]
+
+        public void ValidaNomeProprietario()
+        {
+
+        }
     }
 }
