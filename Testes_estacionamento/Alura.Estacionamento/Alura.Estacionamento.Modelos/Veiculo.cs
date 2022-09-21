@@ -105,7 +105,7 @@ namespace Alura.Estacionamento.Modelos
 
         public override string ToString()
         {
-            return $"Ficha do VeÍculo: \n" +
+            return $"Ficha do VeÍ culo: \n" +
                     $"Tipo do Veículo: {this.Tipo.ToString()}\n" +
                     $"Proprietário: {this.Proprietario}\n" +
                     $"Modelo: {this.Modelo}\n" +
